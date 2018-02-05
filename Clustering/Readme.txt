@@ -1,0 +1,1 @@
+This folder contains the codes for K-means and Hierarchical Clustering algorithms along with a sample Dataset.
